@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.herokuapp.potus.PresidentsSpecChart" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-05-06T00:45:35" hostname="ThinkPad-T420" time="7.747">
+  <properties/>
+  <testcase name="Test Should show a large pie chart depicting the party each president served under" classname="com.herokuapp.potus.PresidentsSpecChart" time="7.747"/>
+  <system-out><![CDATA[Complete
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver (v2.10.267521) on port 13738
+Only local connections are allowed.
+]]></system-err>
+</testsuite>

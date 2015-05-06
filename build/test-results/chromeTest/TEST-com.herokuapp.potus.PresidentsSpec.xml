@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.herokuapp.potus.PresidentsSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-05-05T23:53:07" hostname="ThinkPad-T420" time="8.609">
+  <properties/>
+  <testcase name="Should test that API returns a list of presidents and the UI displays them" classname="com.herokuapp.potus.PresidentsSpec" time="8.609"/>
+  <system-out><![CDATA[Complete
+Complete
+Complete
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver (v2.10.267521) on port 33015
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
