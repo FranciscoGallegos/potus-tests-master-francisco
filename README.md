@@ -1,4 +1,4 @@
-# Testing the Presidents of the United States
+# Mecury Tours
 
 Your mission, should you choose to accept, is to write functional tests to ensure that acceptance criteria has been met for the three [attached user stories](UserStories.md). Below is the documentation for everything you need to complete the mission. This should take about an hour to do and no more than 2 hours total.
 
@@ -9,17 +9,8 @@ Your mission, should you choose to accept, is to write functional tests to ensur
 
 ## Notes
 
-- UI: [https://potus-ui.herokuapp.com](https://potus-ui.herokuapp.com)
-- API: [https://potus-api.herokuapp.com](https://potus-api.herokuapp.com)
-  - **Endpoints**
-    - [GET] /presidents
-    - [GET] /presidents/parties
-    - [GET] /presidents/:id
-      - id: numeric value
-    - [GET] /presidents/name-like/:name
-      - name: string value
-    - [GET] /presidents/with-year/:year
-      - year: numeric value
+- UI: [http://newtours.demoaut.com/](http://newtours.demoaut.com/)
+
 
 ## Usage
 
@@ -37,4 +28,3 @@ You will need to use a machine that can access the URLs in the notes section abo
 
 ## Status
 
-[![Build Status](https://travis-ci.org/stevegood/potus-tests.svg?branch=master)](https://travis-ci.org/stevegood/potus-tests)
