@@ -4,23 +4,20 @@ Provide below are user stories with their acceptance criteria. Using one of the 
 
 ## User Stories
 
-### #1 As a user, I would like to have a screen which allows me to show the President of the United States who was in office for a given year.
+### #1 As a user, I want to successfully sign on on Mercury Tours web site
 
-- Should be able to select any year from 1789 to present year
-- Should display the President's full name (first, last and middle initial if present)
-- Should display the President's associated party (if any)
+- Should be able to create my user account with password
 
 ---
 
-### #2 As a user, I would like to have a screen which allows me to search for former Presidents of the United States by name.
+### #2 As a user, I want to log in to Mercury Tours web site with my created account an password successfully.
 
-- Should be able to search by first name or last name
-  - Example: Searching for *Abraham* should display *Abraham Lincoln* but searching for *Bush* should display both *George Bush* and *George W. Bush*
+- Should be able to log in
 
 ---
 
-### #3 As a user, I would like to have a screen which shows a pie chart breakdown of all Presidential parties.
+### #3 As a user, I would like to create a flight reservation
 
-- Should show a large pie chart depicting the party each president served under
+- Should obtain a reservation number at the end.
 
 ---
