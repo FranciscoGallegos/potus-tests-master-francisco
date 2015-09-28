@@ -6,7 +6,7 @@ class IndexPage extends Page {
   static url = '/'
 
   static at = {
-    title == 'Presidents of the United States'
+    title == 'Welcome: Mercury Tours'
   }
 
   static content = {
