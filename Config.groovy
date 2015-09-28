@@ -12,11 +12,11 @@ environments {
 
     test {
       ui {
-        url = 'http://potus-ui.herokuapp.com'
+        url = 'http://newtours.demoaut.com'
       }
 
       api {
-        url = 'http://potus-api.herokuapp.com'
+        url = 'http://newtours.demoaut.com'
       }
     }
 
